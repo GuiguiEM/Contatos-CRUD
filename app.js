@@ -1,4 +1,4 @@
-const apiUrl = 'https://bakcend-fecaf-render.onrender.com/contatos';
+const apiUrl = 'http://localhost:8080/contatos';
 
 // Função para buscar e exibir os contatos
 async function fetchContacts() {
